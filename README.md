@@ -8,7 +8,7 @@ Utilisation d'un service interactif : Le script prend en compte une URL Interact
 
 Utilisation :
 
-    ./script.sh <fichier_de_domaines> <interactsh_url> <fichier_de_sortie>
+    ./exp.sh <fichier_de_domaines> <interactsh_url> <fichier_de_sortie>
 
 <fichier_de_domaines> : Fichier contenant une liste de domaines à tester.
 <interactsh_url> : URL d'interaction pour recueillir les retours d'exploitation.
